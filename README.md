@@ -1,4 +1,4 @@
-# 🏨 Hotel-Plore
+# Hotel-Plore
 
 Hotel-Plore is a modern web application that allows users to **explore hotels**, view detailed **accommodation information**, **ratings**, and engage in **community discussions** about their experiences.  
 With an intuitive interface and interactive features, users can easily find the perfect stay and connect with other travelers.
